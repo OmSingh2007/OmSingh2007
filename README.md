@@ -27,7 +27,6 @@
 ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmSingh2007&show_icons=false&theme=transparent&hide_border=true&rank_icon=false)
 
 ### 🌐 Connect With Me
-### 🌐 Connect With Me
 
 * **Email:** [os.anything.everything@gmail.com](mailto:os.anything.everything.com)
 * **GitHub:** [github.com/OmSingh2007](https://github.com/OmSingh2007)
