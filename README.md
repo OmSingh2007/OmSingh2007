@@ -6,7 +6,7 @@ I'm an Information Technology engineering student based in Mumbai, passionate ab
 
 Building a Cloud Infrastructure Orchestration Platform that analyzes application code to dynamically generate and execute system designs on AWS.
 
-Continuing to develop TrustSaathi, an AI-driven SaaS platform for non-profits (1st Prize at both the Idea2Impact Grand Finale and the IEEE TCET ZEPHYR Ideathon).
+Continuing to develop TrustSaathi, an AI-driven SaaS platform for non-profits .
 
 Solving Data Structures and Algorithms problems using C++.
 
