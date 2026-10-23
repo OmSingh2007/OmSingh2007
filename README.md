@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Om Singh! 👋
 
-<!--
-**OmSingh2007/OmSingh2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology engineering student based in Mumbai, passionate about full-stack web development, distributed system design, and building scalable software solutions.
 
-Here are some ideas to get you started:
+🚀 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building a Cloud Infrastructure Orchestration Platform that analyzes application code to dynamically generate and execute system designs on AWS.
+
+Continuing to develop TrustSaathi, an AI-driven SaaS platform for non-profits (1st Prize at both the Idea2Impact Grand Finale and the IEEE TCET ZEPHYR Ideathon).
+
+Solving Data Structures and Algorithms problems using C++.
+
+💻 Tech Stack
+
+Languages: C++, JavaScript, Python, SQL
+
+Frontend: React, Tailwind CSS, Vite
+
+Backend & DB: Node.js, Express.js, Python FastAPI, MongoDB, Supabase
+
+Tools & Infrastructure: Git/GitHub, AWS, Render, Vercel
+
+📫 Let's Connect
+
+Email: os.anything.everything@gmail.com
